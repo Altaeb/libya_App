@@ -6,7 +6,7 @@
     <string name="title_hotel">hotel</string>
     <string name="title_restaurant">Restaurant</string>
 
-    0  <!--HistoryFragment-->
+    <!--HistoryFragment-->
     <string name="aruins_of_cyrene">Aruins</string>
     <string name="adalaj_stepwell_address">A historic city founded by the Greeks in Jabal al-Akhdar in the far north-east of Libya, about 10 km away from the city of al-Bayda</string>
     <string name="garama">Garama</string>
@@ -142,6 +142,5 @@ Restaurants, with many branches inside and outside Libya, have been successful i
     <string name="matohom_hatab_address">A nice cozy warm CLEAN restaurant located in a quiet neighborhood near the beach.</string>
     <string name="matohom_alsaraya">Matohom Al-Saraya</string>
     <string name="matohom_alsaraya_address">This modern and beautiful restaurant is located in the center of the city, especially in front of the fortress and the historic castle in Tripoli - Al Saraya Al Hamra - and also the main square of the city - as well as not far from the old city and its popular markets</string>
-    <string name="urban_chowk">Urban Chowk</string>
-    <string name="urban_chowk_address">Nr. Zydus Hospital Cross Road, Thaltej, Ahmedabad, Gujarat 380059, India</string>
+
 </resources>

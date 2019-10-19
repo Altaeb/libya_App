@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ليبيا</string>
+
+    <string name="title_history">التاريخ</string>
+    <string name="title_attraction">جاذبية</string>
+    <string name="title_hotel">الفنادق</string>
+    <string name="title_restaurant">مطاعم</string>
+
+    <!--HistoryFragment-->
+    <string name="aruins_of_cyrene">اوروينس</string>
+    <string name="adalaj_stepwell_address">مدينة تاريخية أسسها الإغريق في جبل الأخضر في أقصى الشمال الشرقي من ليبيا ، على بعد حوالي 10 كم من مدينة البيضاء</string>
+    <string name="garama">قراما</string>
+    <string name="garama_address">تُعزى جريمة مدينة أثرية ليبية في الجزء الجنوبي الغربي من البلاد في الصحراء إلى سكانها القدامى. المدينة ليست مأهولة حاليا.</string>
+    <string name="tolmeitha">تلميثا</string>
+    <string name="tolmeitha_address">تلميثا هي بلدة صغيرة في شمال شرق ليبيا. بعيدا عن مدينة المرج 20 كم شمالا.</string>
+    <string name="susah">سوسه</string>
+    <string name="susah_address">سوسة هي مدينة ليبية صغيرة تقع على ساحل البحر الأبيض المتوسط ​​في الجبل الأخضر وعلى بعد 30 كم شرق مدينة البيضاء. تقع المدينة على أنقاض مدينة أبولونيا القديمة ، وهو متحف أثري مفتوح. تتبع مدينة سوسة الشهيرة الجبل الأخضر.</string>
+    <string name="sabratha">صبراتة</string>
+    <string name="sabratha_address">.صبراتة هي مدينة ليبية أطلق اسمها على الإغريق على يد بروتون بول كاي ليمون (ميناء ومدينة بروتون) وعُرفت فيما بعد باسم صبراتة.</string>
+    <string name="awjilah">اوجيلا</string>
+    <string name="awjilah_address">أوجيلا هي واحة وبلدة صغيرة في ليبيا ، على بعد حوالي 400 كم جنوب بنغازي. المدينة إداريا تابعة لبلدية الواحات. هي واحدة من أقدم المدن في ليبيا ، التي زارها والد التاريخ هيرودوت في عام 400 ق.م. </string>
+    <string name="marcus_aurelius">ميرسوس اورليس (اويا)</string>
+    <string name="marcus_aurelius_address">أويا هي مستعمرة رومانية سابقة في شمال إفريقيا أنشأها الفينيقيون الذين كانوا من سكان ليبيا القدامى. كانت مستعمرة أويا والمنطقة المجاورة لها في طرابلس غنية بالخير ، حيث وصلت إلى ذروتها خلال القرنين الثاني والثالث قبل الميلاد ، ويعزى ذلك إلى حكم سلالة سيفيران. أصبح اسم مستعمرة أويا اليوم طرابلس ، عاصمة ليبيا الحديثة.</string>
+    <string name="labidat_alkubraa">لبدا</string>
+    <string name="labidat_alkubraa_address">واحدة من المدن الرئيسية السابقة في شمال أفريقيا ، وتقع على ساحل البحر الأبيض المتوسط ​​عند مصب وادي لبدة ، وهو ميناء طبيعي على بعد 3 كم شرق الخمس ، على بعد 120 كم شرق طرابلس ، عاصمة ليبيا.</string>
+    <string name="ghadames_mosque">غدامس</string>
+    <string name="ghadames_mosque_address">غدامس هي مدينة ليبية تقع بالقرب من مثلث حدود ليبيا مع تونس والجزائر في الجزء الغربي من البلاد عند خط عرض 30.08 شمالًا وخط طول 9.03 شرقًا ، وترتفع فوق مستوى سطح البحر 357 مترًا. تبعد 543 كم جنوب غرب العاصمة طرابلس.</string>
+    <string name="el_latama_benghazi">اللثاما</string>
+    <string name="el_latama_benghazi_address">اللثامة هي قرية أو ضاحية تقع شمال وسط بنغازي حيث تبعد حوالي 3 كم عن وسط المدينة وهي منطقة زراعية.</string>
+
+    <!--HotelsFragment-->
+    <string name="funduq_korinthia">فندق كورنتيا</string>
+    <string name="funduq_korinthia_address"> هو فندق فخم ووجهة سياحية مهمة في طرابلس ، عاصمة ليبيا.</string>
+    <string name="funduq_ryksos_alnasr">فندق ركسس الناصر</string>
+    <string name="funduq_ryksos_alnasr_address">فندق Rixos El Nasr هو فندق في العاصمة الليبية طرابلس. ينتمي الفندق إلى Rixos Hotels Group of Turkey ويقع في منطقة خضراء تبلغ مساحتها 20 ألف متر مربع في غابة النصر ، التي تعج بأشجار الأوكالبتوس ، على بعد 10 كيلومترات من مطار طرابلس الدولي. التحدث مع وجوده.</string>
+    <string name="funduq_sahraa_libya">فندق صحراء ليبيا</string>
+    <string name="funduq_sahraa_libya_address">تقع في قلب طرابلس وتطل على البحر الأبيض المتوسط.</string>
+    <string name="funduq_bab_albahr">فندق باب البحر</string>
+    <string name="funduq_bab_albahr_address">يقع فندق باب البحر بالقرب من المدينة القديمة ، وهي واحدة من معالم طرابلس ، بالإضافة إلى موقعه في منطقة أبراج الخدمة. يطل فندق Bab Al Bahr على ساحل البحر المتوسط.</string>
+    <string name="funduq_elwedaan">فندق الودان</string>
+    <string name="funduq_elwedaan_address">فندق الودان في طرابلس ، ليبيا. تم إنشاء أحد أقدم وأقدم الفنادق الليبية ، التي بنيت خلال الاستعمار الإيطالي لليبيا ، في عام 1930. كان به قاعة للرقص ، وكازينو ، ومسرح وسينما. يقع الفندق في منطقة الضهرة في وسط طرابلس ، بالقرب من السفارة الإيطالية ومشروع إنتركونتيننتال طرابلس</string>
+    <string name="funduq_j_w_mariut">فندق جي دبليو مارينت</string>
+    <string name="funduq_j_w_mariut_address">يعد فندق JW Marriott Tripoli أحد الفنادق الفاخرة في Marriott International في العاصمة الليبية طرابلس. يعد هذا الفندق معلمًا عصريًا ، حيث يصل إلى 36 طابقًا في الحي التجاري الحديث في وسط العاصمة.</string>
+    <string name="radisson_blu_elmahary">ريدسون بلو المهاري</string>
+    <string name="radisson_blu_elmahary_address">راديسون بلو المهاري هو فندق خمس نجوم في طرابلس ، عاصمة ليبيا.</string>
+    <string name="funduq_plasma">فندق بلازما</string>
+    <string name="funduq_plasma_address">يقع فندق Plasma Hotel ذو الـ 4 نجوم في وسط طرابلس التجاري ، ويوفر غرفًا عازلة للصوت مع شرفات خاصة تطل على البحر أو المدينة.</string>
+    <string name="funduq_alnaher">فندق النهر</string>
+    <string name="funduq_alnaher_address">يبعد فندق Al Naher Hotel حوالي 3 دقائق مشياً على الأقدام عن البلدة القديمة التاريخية ويقدم غرفاً مكيفة الهواء. يمكن للضيوف الاستمتاع بخدمة الواي فاي المجانية في جميع المناطق.</string>
+    <string name="elfosol_elarrbhha">فندق الفصول الأربعة</string>
+    <string name="elfosol_elarrbhha_address">يقع فندق فورسيزونز في طرابلس ، ليبيا في موقع متميز في الحي التجاري بالمدينة وسهولة الوصول إلى مناطق الجذب السياحي والمطاعم ومناطق التسوق.</string>
+    <string name="eltawfeeq_bilaazaa">فندق التوفيق بلايزا</string>
+    <string name="eltawfeeq_bilaazaa_address">يقع هذا الفندق ذو الـ 4 نجوم في المركز التجاري في طرابلس ، ويوفر غرفًا عازلة للصوت مع شرفات خاصة تطل على البحر أو المدينة.</string>
+    <string name="funduq_alkhan">فندق الخان</string>
+    <string name="funduq_alkhan_address">فندق الخان الطرابلسي في مدينة طرابلس القديمة</string>
+    <string name="funduq_fikturia">فندق فكتوريا</string>
+    <string name="funduq_fikturia_address">فندق فيكتوريا هو فندق 4 نجوم ، يتكون من 56 غرفة و 7 أجنحة تحت أعلى مستوى من الاستقبال ، مقهى ، مطعم وصالة رجال الأعمال.
+يقع الفندق في وسط العاصمة طرابلس</string>
+    <string name="funduq_alrayyan">فندق الريان</string>
+    <string name="funduq_alrayyan_address">يقع هذا الفندق ذو الـ 4 نجوم في المركز التجاري في طرابلس ، ويوفر غرفًا عازلة للصوت مع شرفات خاصة تطل على البحر أو المدينة.</string>
+    <string name="funduq_harun">فندق هارون</string>
+    <string name="funduq_harun_address">يقع فندق هارون في قلب العاصمة طرابلس - ضهرة - يشتهر بنبض العاصمة حيث يوجد العديد من شركات النفط والبنوك المحلية</string>
+    <string name="four_bwynts_sheraton">فور وينز شيراتون</string>
+    <string name="four_bwynts_sheraton_address">يقع وسط مدينة طرابلس على بعد 4 كم. تقع المعالم الأثرية والقلعة والمتاحف على مسافة قريبة. يقع العقار بالقرب من الميناء.</string>
+    <string name="funduq_topacts">فندق توباكتس</string>
+    <string name="funduq_topacts_address">يوفر Thobacts Hotel إقامة مريحة ذات 4 نجوم في طرابلس. إنه ذو موقع ملائم للنزلاء الراغبين فى اكتشاف معالم الجذب بالمنطقة</string>
+    <string name="funduq_albatra">فندق الباترا</string>
+    <string name="funduq_albatra_address">يقع فندق Albatra في وسط طرابلس ، في مبنى حديث وعالِ الإرتفاع مع واجهات زجاجية. تم تزيين الغرف بأسلوب حميم. يوفر الفندق إطلالات بانورامية وخدمة نقل مكوكية مجانية.</string>
+
+    <!--AttractionFragment-->
+    <string name="desert_and_camel">الصحراء والجمل</string>
+    <string name="desert_and_camel_address">السباق الشرقي العظيم هو سباق كبير أو "حقل الكثبان الرملية" في الصحراء الكبرى. معظمها يقع في جنوب شرق الجزائر وشمال شرق الصحراء المنخفضة. يغطي السباق الشرقي الكبير حوالي 600 كم و 200 كم شمالًا وجنوبًا. تمتد الحافة الشمالية الشرقية للسباق إلى تونس المجاورة.</string>
+    <string name="mount_owainat">عوينات</string>
+    <string name="mount_owainat_address">جبل العوينات هو سلسلة جبال في المنطقة الحدودية بين ليبيا ومصر والسودان ، ويغطي مساحة قدرها 1500 كيلومتر مربع ويقع معظمها في ليبيا. تشتهر المنطقة بمجموعتها من اللوحات البدائية القديمة على الصخور الجبلية ، وكان من أوائل الاستكشافات التي قام بها أحمد باشا حسنين ، الذي رسم خرائطه الأولى في عام 1932</string>
+    <string name="red_saraya_museum">السرايا الحمراء</string>
+    <string name="red_saraya_museum_address">متحف السراي الأحمر أو مجمع متحف السراي الأحمر في قلعة طرابلس هو واحد من أقدم وأكبر المتاحف في ليبيا. وينقسم عمليا إلى أربعة مستويات: المتاحف التي تعرض تراث ليبيا وتاريخها على مدى فترات زمنية مختلفة ، بما في ذلك حضارات القبائل الليبية واليونانية والفينيقية والرومان والبيزنطيين والعصور العربية.</string>
+    <string name="aljabal_algharbiu">الجبل الغربي</string>
+    <string name="aljabal_algharbiu_address">جبل الغربي أو جبل نفوسة عبارة عن سلسلة جبلية صخرية تقع في المنطقة الشمالية الغربية من ليبيا. وهي تبدأ من جنوب شرق تونس وتعبر الحدود إلى نالوت وتستمر إلى غريان وتنتهي شرق غريان. وتستمر السلسلة الجبلية بشكل متقطع حتى الخامسة. أعلى قمة في الجبل هي 968 متر.</string>
+    <string name="qabr_own">قبر عون</string>
+    <string name="qabr_own_address">قبر عون هي بحيرة مالحة أو واحة تقع في صحراء الصحراء في جنوب ليبيا ، وهي تعتبر وجهة سياحية مهمة. تتميز أيضًا بمياهها الساخنة للغاية بدءًا من عمق 1.5 متر وتمتد إلى أسفل.</string>
+    <string name="aljabal_al_akhdar">الجبل الأخظر</string>
+    <string name="aljabal_al_akhdar_address">الجبل الأخضر هي منطقة جبلية عالية تغطيها الغابات في شمال شرق ليبيا ، وتتميز بارتفاعها عن معظم مناطق ليبيا وتتميز بارتفاع معدلات هطول الأمطار ، بالإضافة إلى توفر الأراضي الخصبة المناسبة للزراعة.</string>
+    <string name="midan_alshuhada">ميدان الشهداء</string>
+    <string name="midan_alshuhada_address">ميدان الشهداء هو أحد ساحات طرابلس ، العاصمة الليبية ، يحدها السراي الأحمر.</string>
+    <string name="waw_alnaamus">واو ناموس</string>
+    <string name="waw_alnaamus_address">جبل واو الناموس هو جبل بركاني في جنوب وسط ليبيا وجنوب هروج. يبلغ ارتفاعه 575 مترًا ، ويُعد أحد أكثر المناطق غرابة في العالم حيث يقع على جبل بركاني وعلبة بركانية ذات صخور بازلتية سوداء ، مع عدد كبير من البحيرات متعددة الألوان المنتشرة على الأقدام مع نباتات مثل كما القصب والخيزران والأشجار القريبة منها مثل النخيل والأفضل.</string>
+    <string name="jamie_qarjiun">جامع قرجي</string>
+    <string name="jamie_qarjiun_address">أحد أقدم المساجد في العاصمة الليبية طرابلس. يقع في وسط المدينة القديمة ويشكل جزءًا من المجمع القديم والأثري في المدينة القديمة. يجذب المسجد عددًا كبيرًا من السياح ويقع بالقرب من قوس ماركوس أوريليوس في طرابلس.</string>
+    <string name="masrah_sabaratah">مسرح صبراته</string>
+    <string name="masrah_sabaratah_address">تشتهر مدينة صبراتة بشاطئها الرملي على البحر الأبيض المتوسط ​​المطل على غابات الصنوبر والحدائق مثل منتزه صبراتة العائلي وحديقة الحيوان وكذلك ضوء الظهر ويمكنك رؤية المنطقة بأكملها والمدينة الأثرية.</string>
+    <string name="qalhat_sabha">قلعة سبها</string>
+    <string name="qalhat_sabha_address">قلعة سبها هي قلعة حصينة تقع في جنوب شرق مدينة سبها في جنوب شرق ليبيا وتقع فوق تل بارز وينظر إليها من جميع الجهات ولها تاريخ من الجهاد ضد الاستعمار.</string>
+    <string name="filha_seyleen">فيلا سيلين</string>
+    <string name="filha_seyleen_address">Villa Celine هي إحدى الفيلات التي بناها الرومان الأثرياء خارج أسوار المدينة ، حيث تعد هذه المباني من أجمل المعالم الأثرية إذا استشهدنا بالاهتمام الذي أولاه الرومان لإنشاء مثل هذه المنازل</string>
+    <string name="fawahat_arkono">فواهة اركونو</string>
+    <string name="fawahat_arkono_address">الحفر Arkno هي زوج من تأثير تآكل
+        الحفر تقع على بعد حوالي 700 كم غرب جبل أركنو في ليبيا. قطرها 10 كيلومترات و 6.8 كيلومترات. يُعتقد أن الحفرتين تشكلتا معًا بعد تصادم قوي أو ما يسمى بـ "حدث التأثير" الإنجليزي قبل 140 مليون عام على الأقل.</string>
+    <string name="mothhaf_janzur">متحف جنزور</string>
+    <string name="mothhaf_janzur_address">متحف جنزور يقع في مدينة جنزور ، على بعد حوالي 13 كم غرب العاصمة الليبية طرابلس. يقع المتحف على بقايا مقبرة قديمة يعود تاريخها إلى القرنين الأول والرابع الميلادي اكتشفت بالصدفة عام 1958.</string>
+    <string name="mothaf_ghadamis">متحف غدامس</string>
+    <string name="mothaf_ghadamis_address">متحف غدامس هو متحف فريد من نوعه ، يعرض كنوز أثرية وثقافية مختلفة من فترات مختلفة من تاريخ ليبيا الأمازيغية.</string>
+    <string name="mothaf_libya">متحف ليبيا</string>
+    <string name="mothaf_libya_address">متحف ليبيا هو متحف تعليمي يركز فيه نظام المعارض على استخدام كل ما هو بصري وحسي. هذا المتحف ليس مثل المتاحف التقليدية الأخرى مثل متحف السرايا الأحمر. تم اختيار موقع المتحف في قصر الشعب التاريخي في وسط طرابلس مع حدائقه الكبيرة وتصميماته الفريدة لجعل المعارض أكثر جاذبية.</string>
+
+    <!--RestaurantFragment-->
+    <string name="matohom_elrubyian">مطعم الروبيان</string>
+    <string name="matohom_elrubyian_address">إذا كنت من محبي الأسماك ، فسوف يجذبك مطعم الروبيان للمأكولات البحرية بأطباقه المميزة وموقعه بالقرب من وسط طرابلس</string>
+    <string name="matohom_barakudat">مطعم براكودا</string>
+    <string name="matohom_barakudat_address">مطعم باراكودا للمأكولات البحرية - طريق الشط - بجانب ميدان أبي سيتا</string>
+    <string name="matohom_francisco">مطعم فرنسيسكو</string>
+    <string name="matohom_francisco_address">النوفلين مقابل جسر تاجورة بجوار قاعة علاء الدين للمناسبات</string>
+    <string name="beetza_lforno">بيتزا فورنو</string>
+    <string name="beetza_lforno_address">فروعنا هي (الفرنج / شارع الغربة / شارع الجمهورية / البطاطا).</string>
+    <string name="kaffee_latte">كافى لاتي</string>
+    <string name="kaffee_latte_address">عنواننا هو 1 Aposta بعد محطة الوقود
+عنواننا هو 2 الجمعة سوق مقابل المجلس البلدي</string>
+    <string name="burj_abwalila">مطعم برج ابو ليله</string>
+    <string name="burj_abwalila_address"> مطعم برج بوليلة - طريق البحر بجوار الميناء الرئيسي لجزيرة كورينثيا طرابلس</string>
+    <string name="matohom_kodo">مطعم كودو</string>
+    <string name="matohom_kodo_address">كودو ليبيا هي شركة رائدة متخصصة في تصنيع الوجبات السريعة والقهوة
+لقد نجحت المطاعم ، مع العديد من الفروع داخل ليبيا وخارجها ، في هذا المجال</string>
+    <string name="matohom_saaffeer">مطعم السفير</string>
+    <string name="matohom_saaffeer_address">مطعم السفير هو واحد من الأقدم والأكثر
+        المطاعم الشهيرة في مدينة طرابلس.</string>
+    <string name="matohom_alatahar">مطعم الطاهر</string>
+    <string name="matohom_alatahar_address">مدينة طرابلس القديمة ، قوس ماركوس أوريليوس ، طرابلس ، ليبيا</string>
+    <string name="elmadeena_elgadeema">المدينة القديمة</string>
+    <string name="elmadeena_elgadeema_address">موقع المطعم في العاصمة طرابلس ، سوق الترك ، أحد الأسواق الشهيرة ببيع الملابس التقليدية</string>
+    <string name="cafe_di_roma">كافى دي روما</string>
+    <string name="cafe_di_roma_address">مكان جميل لجميع أنواع الأحداث إما للقاء أصدقاء الاستمتاع بقراءة جيدة أو الاستمتاع بدفء المكان</string>
+    <string name="havana_juice">عصير هافانا</string>
+    <string name="havana_juice_address">متجر لبيع العصائر الطبيعية وكريبس هو مدقة كبيرة والخدمات المتميزة</string>
+    <string name="storico_ristorante_italiano">مطعم ستوريكو الايطالي</string>
+    <string name="storico_ristorante_italiano_address"> ‪Storico Ristorante Italiano dal 1927‬</string>
+    <string name="sahtein_w_hana">صحتين وهنا</string>
+    <string name="sahtein_w_hana_address">الأكل الصحي واللذيذ ومكان مناسب للنباتيين </string>
+    <string name="caffe_casa">كافى كازا</string>
+    <string name="caffe_casa_address">يقع هذا المقهى في مدينة طرابلس ، ساحة العاصمة على مدار الساعة خلف المتحف وبالقرب من كورنيش طرابلس. هذا المقهى جزء من سلسلة تملكها الشركة ويتميز هذا المقهى بوجود ساحة أمامه هناك العديد من الجداول للمقهى</string>
+    <string name="matohom_murina">مطعم مورينا</string>
+    <string name="matohom_murina_address"> واحد من أكثر مطاعم الطهي طازجًا ولذيذًا ، متخصص في الأطعمة الإيطالية عالية الجودة</string>
+    <string name="matohom_hatab">مطعم الحطب</string>
+    <string name="matohom_hatab_address">مطعم CLEAN دافئ دافئ لطيف يقع في حي هادئ بالقرب من الشاطئ.</string>
+    <string name="matohom_alsaraya">مطعم السرايا</string>
+    <string name="matohom_alsaraya_address">يقع هذا المطعم الحديث والجميل في وسط المدينة ، وخاصة أمام القلعة والقلعة التاريخية في طرابلس - السرايا الحمراء - وأيضًا الساحة الرئيسية للمدينة - وكذلك ليس بعيدًا عن المدينة القديمة والأسواق الشعبية</string>
+</resources>
