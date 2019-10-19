@@ -9,19 +9,21 @@ import androidx.fragment.app.FragmentStatePagerAdapter;
 public class SimpleFragmentPagerAdapter extends FragmentStatePagerAdapter {
 
     private Context mContext;
+
+    @SuppressWarnings("deprecation")
     SimpleFragmentPagerAdapter(Context context, FragmentManager fm) {
-        super(fm);
+        super ( fm );
         mContext = context;
     }
 
     // This determines the fragment for each tab
     @Override
     public Fragment getItem(int position) {
-        if(position == 0)
-            return new HistoryFragment();
-        else if(position == 1)
-            return new AttractionFragment();
-        else if(position == 2)
+        if (position == 0)
+            return new HistoryFragment ();
+        else if (position == 1)
+            return new AttractionFragment ();
+        else if (position == 2)
             return new HotelsFragment ();
         else
             return new RestaurantFragment ();
@@ -39,13 +41,13 @@ public class SimpleFragmentPagerAdapter extends FragmentStatePagerAdapter {
         // Generate title based on item position
         switch (position) {
             case 0:
-                return mContext.getString(R.string.title_history);
+                return mContext.getString ( R.string.title_history );
             case 1:
-                return mContext.getString(R.string.title_attraction);
+                return mContext.getString ( R.string.title_attraction );
             case 2:
-                return mContext.getString(R.string.title_hotel);
+                return mContext.getString ( R.string.title_hotel );
             case 3:
-                return mContext.getString(R.string.title_restaurant);
+                return mContext.getString ( R.string.title_restaurant );
             default:
                 return null;
         }

@@ -24,6 +24,7 @@ public class Place {
     int getAddressStringId() {
         return mAddressStringId;
     }
+
     int getAudioResourceId() {
         return mAudioResourceId;
     }

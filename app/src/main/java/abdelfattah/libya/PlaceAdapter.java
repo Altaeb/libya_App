@@ -16,8 +16,9 @@ import java.util.ArrayList;
 public class PlaceAdapter extends ArrayAdapter<Place> {
 
     private Context context;
+
     PlaceAdapter(Context context, ArrayList<Place> places) {
-        super(context, 0, places );
+        super ( context, 0, places );
         this.context = context;
     }
 
@@ -27,19 +28,19 @@ public class PlaceAdapter extends ArrayAdapter<Place> {
         // Check if the existing view is being reused, otherwise inflate the view
         View listItemView = convertView;
         if (listItemView == null) {
-            listItemView = LayoutInflater.from(getContext()).inflate(
-                    R.layout.single_list_item_view, parent, false);
+            listItemView = LayoutInflater.from ( getContext () ).inflate (
+                    R.layout.single_list_item_view, parent, false );
         }
-        Place currentWord = getItem(position);
-        ImageView mImageView = listItemView.findViewById((R.id.location_image));
-        if(currentWord != null) {
-            mImageView.setImageResource(currentWord.getImageResourceId());
+        Place currentWord = getItem ( position );
+        ImageView mImageView = listItemView.findViewById ( (R.id.place_image) );
+        if (currentWord != null) {
+            mImageView.setImageResource ( currentWord.getImageResourceId () );
 
-            TextView mTextView = listItemView.findViewById(R.id.location_name);
-            mTextView.setText(context.getString(currentWord.getNameStringId()));
+            TextView mTextView = listItemView.findViewById ( R.id.place_name );
+            mTextView.setText ( context.getString ( currentWord.getNameStringId () ) );
 
-            mTextView = listItemView.findViewById(R.id.location_address);
-            mTextView.setText(context.getString(currentWord.getAddressStringId()));
+            mTextView = listItemView.findViewById ( R.id.place_address );
+            mTextView.setText ( context.getString ( currentWord.getAddressStringId () ) );
         }
         return listItemView;
     }
