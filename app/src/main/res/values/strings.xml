@@ -1,3 +1,147 @@
 <resources>
-    <string name="app_name">libya</string>
+    <string name="app_name">Libya</string>
+
+    <string name="title_history">HISTORY</string>
+    <string name="title_attraction">ATTRACTION</string>
+    <string name="title_hotel">hotel</string>
+    <string name="title_restaurant">Restaurant</string>
+
+    0  <!--HistoryFragment-->
+    <string name="aruins_of_cyrene">Aruins</string>
+    <string name="adalaj_stepwell_address">A historic city founded by the Greeks in Jabal al-Akhdar in the far north-east of Libya, about 10 km away from the city of al-Bayda</string>
+    <string name="garama">Garama</string>
+    <string name="garama_address">The crime of a Libyan archaeological city in the southwestern part of the country in the Sahara is attributed to its ancient inhabitants. The city is not currently inhabited.</string>
+    <string name="tolmeitha">Tolmeitha</string>
+    <string name="tolmeitha_address">Talmaitha is a small town in northeastern Libya. Away from the city of Marg 20 km north.</string>
+    <string name="susah">Susah</string>
+    <string name="susah_address">Sousse is a small Libyan city located on the Mediterranean coast in the Green Mountain and 30 km east of the city of Baida. The city is located on the ruins of the ancient city of Apollonia, which is an open archaeological museum. This popular city of Sousse follows the Green Mountain.</string>
+    <string name="sabratha">Sabratha</string>
+    <string name="sabratha_address">Sabratha is a Libyan city whose name was given to the Greeks by the Proton Paul Kay of Leimon (port and city of Proton) and later known as Sabratha.</string>
+    <string name="awjilah">Awjilah</string>
+    <string name="awjilah_address">Ojela is an oasis and a small town in Libya, about 400 km south of Benghazi. The city is administratively affiliated with the municipality of the oases. It is one of the oldest cities in Libya, visited by the father of history Herodotus in the year 400 BC was named Ogila, </string>
+    <string name="marcus_aurelius">Marcus Aurelius ( Oia )</string>
+    <string name="marcus_aurelius_address">Oia is a former Roman colony in North Africa created by the Phoenicians who were the ancient inhabitants of Libya. The colony of Oia and its neighboring region of Tripoli was rich in goodness, reaching its height during the second and third centuries BC, which was attributed to the rule of the Severan dynasty. The name of the Oya colony today became Tripoli, the capital of modern Libya.</string>
+    <string name="labidat_alkubraa">Labidat</string>
+    <string name="labidat_alkubraa_address">One of the former major northern African cities, it is located on the Mediterranean coast at the mouth of Wadi Lebda, a natural harbor 3 km east of Al Khums, 120 km east of Tripoli, the capital of Libya.</string>
+    <string name="ghadames_mosque">Ghadamess</string>
+    <string name="ghadames_mosque_address">Ghadames is a Libyan city located near the triangle of Libya border with Tunisia and Algeria in the western part of the country at latitude 30.08 north and longitude 9.03 east, rising above sea level 357 meters. It is 543 kilometers southwest of the capital Tripoli.</string>
+    <string name="el_latama_benghazi">Al-Latama</string>
+    <string name="el_latama_benghazi_address">Al-Lathama is a village or suburb located north of the center of Benghazi as it is about 3 km away from the city center and is an agricultural area.</string>
+
+    <!--HotelsFragment-->
+    <string name="funduq_korinthia">Funduq Korinthia</string>
+    <string name="funduq_korinthia_address">Corinthia Bab Africa is a luxury hotel and an important tourist destination in Tripoli, the capital of Libya.</string>
+    <string name="funduq_ryksos_alnasr">Funduq Ryksos Alnasr</string>
+    <string name="funduq_ryksos_alnasr_address">Rixos El Nasr is a hotel in Tripoli, the Libyan capital. The hotel belongs to the Rixos Hotels Group of Turkey and is set in a green area of 20,000 square meters in the Victory Forest, which is infested with eucalyptus trees, 10 kilometers from Tripoli International Airport. Talk with his presence.</string>
+    <string name="funduq_sahraa_libya">Funduq Sahraa Libya</string>
+    <string name="funduq_sahraa_libya_address">Located in the heart of Tripoli and overlooking the Mediterranean Sea.</string>
+    <string name="funduq_bab_albahr">Funduq Bab Albahr</string>
+    <string name="funduq_bab_albahr_address">Bab Al Bahr Hotel is located near the old city, one of the landmarks of Tripoli, in addition to its location in the service towers area. Bab Al Bahr Hotel overlooks the Mediterranean coast.</string>
+    <string name="funduq_elwedaan">Funduq Elwedaan</string>
+    <string name="funduq_elwedaan_address">Al Wedan Hotel in Tripoli, Libya. One of the oldest and oldest Libyan hotels, built during the Italian colonization of Libya, was founded in 1930. It had a dance hall, a casino, a theater and a cinema. The hotel is located in the Al-Dahra area in the center of Tripoli, close to the Italian Embassy and the Intercontinental Tripoli project</string>
+    <string name="funduq_j_w_mariut">Funduq J W Mariut</string>
+    <string name="funduq_j_w_mariut_address">JW Marriott Tripoli is one of the luxury hotels of Marriott International in the Libyan capital Tripoli. This hotel is a modern landmark, rising to 36 floors in the modern business district in the center of the capital.</string>
+    <string name="radisson_blu_elmahary">Radisson Blu Elmahary</string>
+    <string name="radisson_blu_elmahary_address">Radisson Blu Al Mahary is a five-star hotel in Tripoli, the capital of Libya.</string>
+    <string name="funduq_plasma">Funduq Plasma</string>
+    <string name="funduq_plasma_address">Located in the commercial center of Tripoli, the 4-star Plasma Hotel offers soundproofed rooms with private balconies overlooking the sea or the city.</string>
+    <string name="funduq_alnaher">Funduq Alnaher</string>
+    <string name="funduq_alnaher_address">Just a 3-minute walk from the historic Old Town, Al Naher Hotel offers air-conditioned rooms. Guests enjoy free Wi-Fi in all areas.</string>
+    <string name="elfosol_elarrbhha">Funduq Elfosol Elarrbhha</string>
+    <string name="elfosol_elarrbhha_address">Four Seasons Hotel is located in Tripoli, Libya in a prime location in the business district of the city and easy access to tourist attractions, restaurants and shopping areas.</string>
+    <string name="eltawfeeq_bilaazaa">Funduq Eltawfeeq Bilaazaa</string>
+    <string name="eltawfeeq_bilaazaa_address">Located in the commercial center of Tripoli, the 4-star hotel offers soundproofed rooms with private balconies overlooking the sea or the city.</string>
+    <string name="funduq_alkhan">Funduq Alkhan</string>
+    <string name="funduq_alkhan_address">Al - Khan Trabelsi Hotel in the old city of Tripoli</string>
+    <string name="funduq_fikturia">funduq_fikturia</string>
+    <string name="funduq_fikturia_address">The Victoria Hotel is a 4 star hotel, consisting of 56 rooms and 7 suites under the highest standard of reception, cafe, restaurant and business lounge.
+The hotel is located in the center of the capital Tripoli</string>
+    <string name="funduq_alrayyan">Funduq Alrayyan</string>
+    <string name="funduq_alrayyan_address">Located in the commercial center of Tripoli, the 4-star hotel offers soundproofed rooms with private balconies overlooking the sea or the city.</string>
+    <string name="funduq_harun">Funduq Harun</string>
+    <string name="funduq_harun_address">Haroun Hotel is located in the heart of the capital Tripoli - Dahra - famous for the pulse of the capital where many oil companies and local banks</string>
+    <string name="four_bwynts_sheraton">Four Bwynts Sheraton</string>
+    <string name="four_bwynts_sheraton_address">Tripoli city center is 4 km away. Monuments, the castle and museums are within walking distance. The property is located near the harbor.</string>
+    <string name="funduq_topacts">Funduq Topacts</string>
+    <string name="funduq_topacts_address">Thobacts Hotel provides comfortable 4-star accommodation in Tripoli. It is conveniently positioned for guests wanting to discover the area attractions</string>
+    <string name="funduq_albatra">Funduq Al Batra</string>
+    <string name="funduq_albatra_address">Located in the center of Tripoli, Albatra Hotel is set in a modern, high-rise building with glass facades. Rooms are decorated in an intimate style. The hotel offers panoramic views and free shuttle service.</string>
+
+    <!--AttractionFragment-->
+    <string name="desert_and_camel">Desert and Camel</string>
+    <string name="desert_and_camel_address">The Great Eastern Race is a great race or "sand dune field" in the Sahara Desert. Most are located in the southeast of Algeria and the northeast of the lowland Sahara. The Great Eastern Race covers an area of about 600 km, 200 km north and south. The northeast edge of the race extends to neighboring Tunisia.</string>
+    <string name="mount_owainat">Owainat</string>
+    <string name="mount_owainat_address">Mount Owainat is a mountain range in the border region of Libya-Egypt-Sudan, and covers an area of 1500 square kilometers and most of it is located in Libya. The area is known for its collection of ancient primitive paintings on mountain rocks, one of the first explorations in the region was made by Ahmed Pasha Hassanein, who drew his first maps in 1932</string>
+    <string name="red_saraya_museum">Red Saraya Museum</string>
+    <string name="red_saraya_museum_address">The Red Serail Museum or the Red Serail Museum Complex in Tripoli Citadel is one of the oldest and largest museums in Libya.It is practically divided into four levels: Museums  displaying the heritage and history of Libya over different periods of time, including the civilizations of the Libyan tribes, Greeks, Phoenicians, Romans, Byzantines and Arab eras.</string>
+    <string name="aljabal_algharbiu">aljabal algharbiu</string>
+    <string name="aljabal_algharbiu_address">Jebel Gharbi or Jebel Nefoussa is a rocky mountain range located in the northwestern region of Libya.It starts from southeastern Tunisia and crosses the border to Nalut and continues to Gharyan and ends east of Gharyan.The mountain chain continues sporadically until five. The highest peak of the mountain is 968 meters.</string>
+    <string name="qabr_own">Qabr Own</string>
+    <string name="qabr_own_address">The tomb of Aoun is a salt lake or oasis located in the Sahara desert in southern Libya.It is considered an important tourist destination. It is also characterized by its very hot water starting from a depth of 1.5 meters and stretching down.</string>
+    <string name="aljabal_al_akhdar">Aljabal Al-Akhdar</string>
+    <string name="aljabal_al_akhdar_address">Green Mountain is a high mountainous area covered by forests in northeastern Libya, characterized by its elevation from most areas of Libya and is characterized by high rainfall rates, in addition to the availability of fertile land suitable for agriculture.</string>
+    <string name="midan_alshuhada">Midan Alshuhada</string>
+    <string name="midan_alshuhada_address">Martyrs Square is one of the squares of Tripoli, the Libyan capital, bordered by the Red Serail.</string>
+    <string name="waw_alnaamus">Waw Alnaamus</string>
+    <string name="waw_alnaamus_address">Mount Waw al-Namus is a volcanic mountain in south central Libya and south of Harrouj. It is 575 meters high, and is considered one of the most strange areas of the world where it is on a volcanic mountain and a volcanic tin with black basaltic rocks, with a large number of multi-colored lakes scattered on the foot with plants such as reeds, bamboo and trees near them such as palm and the best.</string>
+    <string name="jamie_qarjiun">Jamie Qarjiun</string>
+    <string name="jamie_qarjiun_address">One of the oldest mosques in the Libyan capital Tripoli. It is located in the center of the old city and forms part of the old and archaeological complex of the old city. The mosque attracts a large number of tourists and is adjacent to the arch of Marcus Aurelius in Tripoli.</string>
+    <string name="masrah_sabaratah">Masrah Sabaratah</string>
+    <string name="masrah_sabaratah_address">Sabratha city is famous for its sandy beach on the Mediterranean Sea overlooking the pine forests and parks such as Sabratha family park, zoo as well as the light of the back and you can see the whole area and the archaeological city.</string>
+    <string name="qalhat_sabha">Qalhat Sabha</string>
+    <string name="qalhat_sabha_address">Sabha Castle is an impregnable fortress located in the southeast of the city of Sabha in southeastern Libya and located above a prominent hill and seen from all sides and has a history of jihad against colonialism.</string>
+    <string name="filha_seyleen">Filha Seyleen</string>
+    <string name="filha_seyleen_address">Villa Celine is one of the villas built by the wealthy Romans outside the city walls, where these buildings are one of the most beautiful monuments if we cite the attention paid by the Romans for the establishment of such houses</string>
+    <string name="fawahat_arkono">Fawahat Arkono</string>
+    <string name="fawahat_arkono_address">The Arkno craters are a pair of corrosive impact
+        craters located about 700 km west of Mount Arkno in Libya Kufra Basin. Their diameter is 10 kilometers and 6.8 kilometers. It is believed that the two craters formed together after a strong collision or what is called in the English "Impact event" at least 140 million years ago.</string>
+    <string name="mothhaf_janzur">Mothaf Janzur</string>
+    <string name="mothhaf_janzur_address">Janzour Museum Located in the town of Janzour, about 13 kilometers west of the Libyan capital Tripoli. The museum is located on the remains of an ancient cemetery dating from the first and fourth centuries AD discovered by accident in 1958.</string>
+    <string name="mothaf_ghadamis">Mothaf Ghadamis</string>
+    <string name="mothaf_ghadamis_address">The Ghadames Museum is a unique museum, displaying various archaeological and cultural treasures from different periods of Libyan-Amazigh history.</string>
+    <string name="mothaf_libya">Mothaf Libya</string>
+    <string name="mothaf_libya_address">Libya Museum is an educational museum in which the exhibition system focused on the use of all sensory audiovisual and sensory. This museum is not like other traditional museums like the Red Saraya Museum. ”The location of the museum in the historic People Palace in downtown Tripoli was chosen with its large gardens and unique designs to make the exhibits more attractive.</string>
+
+    <!--RestaurantFragment-->
+    <string name="matohom_elrubyian">Matohom Elrubyian</string>
+    <string name="matohom_elrubyian_address">If you are a fish lover, the shrimp seafood restaurant will attract you with its distinctive dishes and its location near the center of Tripoli</string>
+    <string name="matohom_barakudat">Matohom Barakudat</string>
+    <string name="matohom_barakudat_address">Barracuda Seafood Restaurant - Al Shat Road - Next to Abi Sitta Square</string>
+    <string name="matohom_francisco">Matohom Francisco</string>
+    <string name="matohom_francisco_address">Alnofleen opposite the bridge of Tajoura next to Aladdin Hall for events</string>
+    <string name="beetza_lforno">Beetza Alforno</string>
+    <string name="beetza_lforno_address">Our branches are (Al-Farnaj / Al-Graba Street / Al-Gomhouria Street / Al-Batata /.</string>
+    <string name="kaffee_latte">coffee Latte</string>
+    <string name="kaffee_latte_address">Our address is 1 Aposta after the gas station
+Our address is 2 Friday Market opposite the Municipal Council</string>
+    <string name="burj_abwalila">Matohom Burj Abwalila</string>
+    <string name="burj_abwalila_address"> Bouleileh Tower Restaurant - Sea Road next to the main port of Corinthia Island Tripoli</string>
+    <string name="matohom_kodo">Matohom Kodo</string>
+    <string name="matohom_kodo_address">Kudu Libya is a leading company specialized in fast food and coffee processing
+Restaurants, with many branches inside and outside Libya, have been successful in this area</string>
+    <string name="matohom_saaffeer">Matohom Saaffeer</string>
+    <string name="matohom_saaffeer_address">Al Safeer Restaurant is one of the oldest and most
+        famous restaurants in the city of Tripoli.</string>
+    <string name="matohom_alatahar">Matohom Al-Atahar</string>
+    <string name="matohom_alatahar_address">Tripoli Old city, Marcus Aurelius Arch, Tripoli, Libya</string>
+    <string name="elmadeena_elgadeema">Elmadeena Elgadeema</string>
+    <string name="elmadeena_elgadeema_address">The location of the restaurant in the capital Tripoli, the market Turk, one of the markets famous for selling traditional clothing</string>
+    <string name="cafe_di_roma">Cafe Di Roma</string>
+    <string name="cafe_di_roma_address">A beautiful place for all kinds of events either to meet with friends enjoy a good reading or even enjoy the warmth of the place</string>
+    <string name="havana_juice">Havana Juice</string>
+    <string name="havana_juice_address">A shop selling natural juices and crepes is a great pistil and outstanding services</string>
+    <string name="storico_ristorante_italiano">Storico Ristorante Italiano</string>
+    <string name="storico_ristorante_italiano_address"> ‪Storico Ristorante Italiano dal 1927‬</string>
+    <string name="sahtein_w_hana">Sahtein W Hana‬</string>
+    <string name="sahtein_w_hana_address">Healthy and delicious eating and a suitable place for vegetarians </string>
+    <string name="caffe_casa">Caffe Casa‬</string>
+    <string name="caffe_casa_address">This cafe is located in the city of Tripoli, the capital square clock behind the museum and near the Corniche of Tripoli This cafe is part of the series owned by the company and this cafe is characterized by the presence of a yard in front of which there are many tables for the cafe</string>
+    <string name="matohom_murina">Matohom Murina</string>
+    <string name="matohom_murina_address"> One of the most culinary restaurants is fresh and delicious, specializing in high quality Italian food</string>
+    <string name="matohom_hatab">Matohom Hatab</string>
+    <string name="matohom_hatab_address">A nice cozy warm CLEAN restaurant located in a quiet neighborhood near the beach.</string>
+    <string name="matohom_alsaraya">Matohom Al-Saraya</string>
+    <string name="matohom_alsaraya_address">This modern and beautiful restaurant is located in the center of the city, especially in front of the fortress and the historic castle in Tripoli - Al Saraya Al Hamra - and also the main square of the city - as well as not far from the old city and its popular markets</string>
+    <string name="urban_chowk">Urban Chowk</string>
+    <string name="urban_chowk_address">Nr. Zydus Hospital Cross Road, Thaltej, Ahmedabad, Gujarat 380059, India</string>
 </resources>
